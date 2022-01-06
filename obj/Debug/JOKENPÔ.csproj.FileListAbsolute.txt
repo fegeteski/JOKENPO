@@ -1,0 +1,11 @@
+C:\1- CSHARP\JOKENPÔ\bin\Debug\JOKENPÔ.exe.config
+C:\1- CSHARP\JOKENPÔ\bin\Debug\JOKENPÔ.exe
+C:\1- CSHARP\JOKENPÔ\bin\Debug\JOKENPÔ.pdb
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.csproj.AssemblyReference.cache
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.csproj.SuggestedBindingRedirects.cache
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.jokenpo.resources
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.Properties.Resources.resources
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.csproj.GenerateResource.cache
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.csproj.CoreCompileInputs.cache
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.exe
+C:\1- CSHARP\JOKENPÔ\obj\Debug\JOKENPÔ.pdb
